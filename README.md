@@ -14,7 +14,7 @@ The WHO provides up-to-date information on COVID19
 
 ## Other resources
   * [Dashboard by Johns Hopkins University with case counts and maps](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
-  * [Genomic epidemiology on nextstrain.org](https://nextstrain.org/ncov
+  * [Genomic epidemiology on nextstrain.org](https://nextstrain.org/ncov)
 
 # Information on prepardness
   * [Information for Businesses and Organizations by the US CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/guidance-business-response.html)
